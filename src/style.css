@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* If you wanted you can override tailwind with custom css here */
+
+/*
+h2 {
+  color: red;
+}
+*/
