@@ -3,9 +3,14 @@
 @tailwind utilities;
 
 /* If you wanted you can override tailwind with custom css here */
+/* You also need to use the !important marker, however remember this is a tailwind build so changes should be minimal to none */
 
-/*
-h2 {
-  color: red;
-}
-*/
+/* h2 {
+  color: red !important;
+  font-family: 'Trenda' !important;
+} */
+
+/* Image imports are working */
+/* body {
+  background-image: url('./assets/images/logoipsum-218.svg');
+}   */
